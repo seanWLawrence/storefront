@@ -2,7 +2,7 @@
 
 - Get photos ready for launch
 - Download the software
-- Write down some text for the site
+- Write down some text for the site. And links
 - (Optional) Buy a domain
 
 ## Goals
